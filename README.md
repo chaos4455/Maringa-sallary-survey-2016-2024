@@ -37,6 +37,10 @@ Como um profissional com ampla experiência em **data analytics**, este projeto 
 - **Análise crítica** de informações, extraindo insights relevantes para decisões de carreira e negócios.
 - **Visualização de dados** complexos de forma clara e intuitiva, facilitando a compreensão de tendências.
 
+<img width="1891" alt="Everything_di3CeeWCMV" src="https://github.com/user-attachments/assets/c3b4d020-162d-4756-8403-8cb6bb9b3fac">
+<img width="716" alt="Everything_R8RDBzDuuD" src="https://github.com/user-attachments/assets/4d03d810-f8d5-4c7d-8d35-d359a1c8a2d7">
+<img width="1714" alt="explorer_BtiMg69ERY" src="https://github.com/user-attachments/assets/959bdd21-c7de-4bc4-8c20-45f3cf9e2a2b">
+
 A utilização de **Pandas** para manipulação de dados e **Plotly** para criação de gráficos dinâmicos são exemplos do meu domínio em transformar dados brutos em informações úteis.
 
 ## 📊 Visualizações
